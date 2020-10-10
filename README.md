@@ -13,9 +13,13 @@ Uploading in 1hr
 ## <img src="https://img.icons8.com/ultraviolet/2x/user-group-man-woman.png" width="30" height="30">Team<img src="https://img.icons8.com/ultraviolet/2x/user-group-man-woman.png" width="30" height="30">
 
 [Major Thrust#0198](https://discord.gg/C3GtuDB) - Owner | Developer
+<br>
 [ʜყ℘г ❘❘ highintoxic#0420](https://discord.gg/C3GtuDB) - Owner | Developer
+<br>
 [JssPlayZᴰᴱⱽᴱᴸᴼᴾᴱᴿ#3772](https://discord.gg/C3GtuDB) - Staff | Developer
+<br>
 [🔥BUDDYisOP🔥#0001](https://discord.gg/C3GtuDB) - Staff | Developer
+<br>
 [Legendary Emoji#1742](https://discord.gg/C3GtuDB) - Staff | Developer
 
 ## <img src="https://img.icons8.com/nolan/2x/camera.png" height="30" width="30"> SCREENSHOTS<img src="https://img.icons8.com/nolan/2x/camera.png" height="30" width="30">
