@@ -24,7 +24,7 @@ Uploading in 1hr
 
 <img src="https://cdn.discordapp.com/attachments/764452688813228043/764453346689155083/unknown.png">
 
-<img src="https://cdn.discordapp.com/attachments/764452688813228043/764453472791298049/unknown.png" width="820">
+<img src="https://cdn.discordapp.com/attachments/764452688813228043/764453472791298049/unknown.png">
 
 ## <img src="https://img.icons8.com/nolan/2x/gold-bars.png" height ="30" width="30">SPECIALITY<img src="https://img.icons8.com/nolan/2x/gold-bars.png" height ="30" width="30">
 
