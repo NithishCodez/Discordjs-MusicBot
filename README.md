@@ -33,3 +33,7 @@ https://www.youtube.com/watch?v=oMD9sd9Mru4
 ## <img src="https://img.icons8.com/nolan/2x/gold-bars.png" height ="30" width="30">SPECIALITY<img src="https://img.icons8.com/nolan/2x/gold-bars.png" height ="30" width="30">
 
 This music bot is programmed in the way that it will scrape the youtube website directly, which means No more annoying youtube-api-key is needed!
+
+## CREDITS
+[@icrawl](https://github.com/iCrawl)
+Thanks to icrawl, queue system is partially adapted from icrawl's [Music Bot Repo](https://github.com/iCrawl/discord-music-bot)
