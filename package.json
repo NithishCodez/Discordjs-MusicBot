@@ -13,6 +13,7 @@
   },
   "devDependencies": {},
   "scripts": {
+    "start": "node --experimental-worker index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
