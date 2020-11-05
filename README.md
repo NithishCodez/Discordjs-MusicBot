@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=oMD9sd9Mru4
 
 ## <img src="https://img.icons8.com/ultraviolet/2x/user-group-man-woman.png" width="30" height="30">Made By<img src="https://img.icons8.com/ultraviolet/2x/user-group-man-woman.png" width="30" height="30">
 
-Weirdo#6593 - Owner | Developer
+Nithish#6593 - Owner | Developer
 
 ## <img src="https://img.icons8.com/nolan/2x/camera.png" height="30" width="30"> SCREENSHOTS<img src="https://img.icons8.com/nolan/2x/camera.png" height="30" width="30">
 
