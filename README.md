@@ -5,7 +5,7 @@
  
 ## <img src="https://img.icons8.com/nolan/2x/youtube-music.png" width="25" height="25">Youtube Tutorial<img src="https://img.icons8.com/nolan/2x/youtube-music.png" width="25" height="25">
 
-SOOn!
+https://www.youtube.com/watch?v=lqRRKQQ_D5g&t=19s
 
 ##  <img src="https://img.icons8.com/ultraviolet/2x/burn-cd.png" height="30" width = "30">Remix The Project<img src="https://img.icons8.com/ultraviolet/2x/burn-cd.png" height="30" width = "30">
 [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/Mercurydev986/Discordjs-MusicBot-Tutorial/)
