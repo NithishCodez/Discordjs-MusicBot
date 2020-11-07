@@ -6,6 +6,7 @@
     "discord.js": "^12.3.1",
     "ffmpeg": "^0.0.4",
     "ffmpeg-static": "^4.2.7",
+    "lyrics-finder": "^21.4.0",
     "opusscript": "^0.0.7",
     "scrape-yt": "^1.4.3",
     "ytdl-core": "^3.3.0",
