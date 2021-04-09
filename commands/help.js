@@ -8,6 +8,7 @@ exports.run = async (client, message) => {
    resume\`\` - resume paused songs in the server
    queue\`\` - shows the song queue of the server
    skip\`\` - skips to next song in the queue
+   skipto <Target number>\`\` - Multiple skips until target
    stop\`\` - stops the song and clears the queue
    volume <volume count or none>\`\` - see or adjust volume of songs
    np\`\` - see now playing song
@@ -15,6 +16,7 @@ exports.run = async (client, message) => {
    shuffle\`\` - shuffle and randomize the queue
    invite\`\` - get invite link for the bot
    loop\`\` - enable / disable loop for the currently playing song
+   remove <Target number>\`\` - remove a song from the queue
    help\`\` - to see this command`;
 
   const revised = commands
