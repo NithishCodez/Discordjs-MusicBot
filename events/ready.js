@@ -1,3 +1,3 @@
 module.exports = (client) => {
-    console.log('Im alive as' + client.user.tag)
-}
+  console.log("[Discord API]: Logged In As " + client.user.tag);
+};

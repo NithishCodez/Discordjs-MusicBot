@@ -1,23 +1,27 @@
 {
-  "name": "djs-music-bot-tutorial",
-  "version": "1.0.0",
+  "name": "discordjs-musicbot",
+  "version": "2.0.0",
+  "description": "Most Advanced open-source discord music bot, Made by NithishPravin",
   "main": "index.js",
-  "dependencies": {
-    "discord.js": "^12.3.1",
-    "ffmpeg": "^0.0.4",
-    "ffmpeg-static": "^4.2.7",
-    "lyrics-finder": "^21.4.0",
-    "opusscript": "^0.0.7",
-    "scrape-yt": "^1.4.3",
-    "ytdl-core": "^3.3.0",
-    "ytdl-core-discord": "^1.2.3"
-  },
-  "devDependencies": {},
+  "license": "MIT",
   "scripts": {
-    "start": "node --experimental-worker index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
-  "author": "",
-  "license": "ISC",
-  "description": ""
+  "engines": {
+    "node": "14.x"
+  },
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "discord.js": "^12.3.1",
+    "dotenv": "^8.2.0",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-static": "^4.2.7",
+    "yt-search": "^2.2.4",
+    "ytdl-core": "^4.1.1",
+    "discord-ytdl-core": "^5.0.1",
+    "opusscript": "^0.0.7",
+    "lyrics-finder": "^21.4.0",
+    "fs": "0.0.1-security",
+    "node-opus": "^0.3.3"
+  }
 }
