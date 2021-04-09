@@ -14,6 +14,7 @@ exports.run = async (client, message) => {
    lyrics\`\` - get lyrics of current song
    shuffle\`\` - shuffle and randomize the queue
    invite\`\` - get invite link for the bot
+   loop\`\` - enable / disable loop for the currently playing song
    help\`\` - to see this command`;
 
   const revised = commands

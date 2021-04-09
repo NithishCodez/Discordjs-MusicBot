@@ -9,10 +9,23 @@ exports.run = async (client, message) => {
   const queue = message.client.queue.get(message.guild.id);
   var status;
   var np;
+  var count = 0;
   if (!queue) status = "There is nothing in queue!";
   else
     status = queue.queue
-      .map((x) => "• " + x.name + " -Requested by " + `<@${x.requested.id}>`)
+      .map((x) => {
+        count += 1;
+        return (
+          "• " +
+          "`" +
+          count +
+          "." +
+          "`" +
+          x.name +
+          " -Requested by " +
+          `<@${x.requested.id}>`
+        );
+      })
       .join("\n");
   if (!queue) np = status;
   else np = queue.queue[0].name;
