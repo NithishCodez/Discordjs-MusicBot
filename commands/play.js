@@ -124,7 +124,10 @@ exports.run = async (client, message, args) => {
       const player = data.connection
         .play(source, { type: "opus" })
         .on("finish", () => {
-          data.queue.shift();
+          var removed = data.queue.shift();
+          if(data.loop == true){
+            data.queue.push(removed)
+          }
           play(data.queue[0]);
         });
       player.setVolumeLogarithmic(data.volume / 100);

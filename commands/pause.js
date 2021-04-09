@@ -24,7 +24,7 @@ exports.run = async (client, message) => {
   queue.playing = false;
   return message.channel.send(
     new MessageEmbed()
-    .setDescription("**Paused the music :white_check_mark:**")
+    .setDescription("**Paused the music :white_check_mark: **")
     .setColor("BLUE")
   );
 };
