@@ -14,13 +14,13 @@ exports.run = async (client, message, args) => {
     );
   let queue = message.client.queue.get(message.guild.id);
   if (args[0] == 1)
-  return message.channel.send(
-    new MessageEmbed()
-      .setDescription(
-        ":x: **Can't remove currently playing song, use command skip**"
-      )
-      .setColor("RED")
-  );
+    return message.channel.send(
+      new MessageEmbed()
+        .setDescription(
+          ":x: **Can't remove currently playing song, use command skip**"
+        )
+        .setColor("RED")
+    );
   if (queue.queue.length == 1)
     return message.channel.send(
       new MessageEmbed()
