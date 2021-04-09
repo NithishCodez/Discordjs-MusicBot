@@ -12,6 +12,12 @@ exports.run = async (client, message, args) => {
         .setDescription(":x: No song number provided")
         .setColor("RED")
     );
+  if (isNaN(args[0]))
+    return message.channel.send(
+      new MessageEmbed()
+        .setDescription(":x: **Args must be number [Example: -remove 2]**")
+        .setColor("RED")
+    );
   let queue = message.client.queue.get(message.guild.id);
   if (args[0] == 1)
     return message.channel.send(
