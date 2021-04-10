@@ -4,7 +4,7 @@
 <img src="./media/banner.gif"></div>
 
 ## Tutorial <img width="20px" src="https://img.icons8.com/fluent/2x/youtube-play.png">
-Tutorial Link will be added here once v2 video is uploaded
+[Click Me](https://www.youtube.com/watch?v=8wopOm4598Q) To watch the video
 
 ## Contact Me
 <img width="30" src="https://img.icons8.com/fluent/2x/discord-logo.png"> 
