@@ -1,8 +1,12 @@
 const Discord = require("discord.js");
 const fs = require("fs");
+require("dotenv").config();
 
 const client = new Discord.Client();
-const config = require("./config.js");
+const config = {
+  token: process.env.TOKEN,
+  prefix: process.env.PREFIX,
+};
 client.config = config;
 client.queue = new Map();
 
@@ -28,4 +32,4 @@ fs.readdir("./commands/", (err, files) => {
   });
 });
 
-client.login(config.token);
+client.login(client.config.token);

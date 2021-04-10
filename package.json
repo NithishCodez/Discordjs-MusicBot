@@ -12,16 +12,16 @@
   },
   "dependencies": {
     "@discordjs/opus": "^0.3.2",
+    "discord-ytdl-core": "^5.0.1",
     "discord.js": "^12.3.1",
     "dotenv": "^8.2.0",
     "ffmpeg": "0.0.4",
     "ffmpeg-static": "^4.2.7",
-    "yt-search": "^2.2.4",
-    "ytdl-core": "^4.1.1",
-    "discord-ytdl-core": "^5.0.1",
-    "opusscript": "^0.0.7",
-    "lyrics-finder": "^21.4.0",
     "fs": "0.0.1-security",
-    "node-opus": "^0.3.3"
+    "lyrics-finder": "^21.4.0",
+    "node-opus": "^0.3.3",
+    "opusscript": "^0.0.7",
+    "yt-search": "^2.2.4",
+    "ytdl-core": "^4.1.1"
   }
 }
