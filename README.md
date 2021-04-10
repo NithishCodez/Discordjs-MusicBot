@@ -1,31 +1,26 @@
+<h1 align="center">Discord Music Bot - Professional</h1>
+<div align="center">
+<p align="center">Thanks for 5k Views on the v1 bot, Enjoy with v2</p>
+<img src="./media/banner.gif"></div>
 
-<h1 align="center">Discordjs Music Bot - Advanced</h1>
-<h1 align="center"><img src ="https://github.com/Mercurydev986/Discordjs-MusicBot-Tutorial/blob/master/sound.gif?raw=true"></h1>
- 
- 
-## <img src="https://img.icons8.com/nolan/2x/youtube-music.png" width="25" height="25">Youtube Tutorial<img src="https://img.icons8.com/nolan/2x/youtube-music.png" width="25" height="25">
+## Tutorial <img width="20px" src="https://img.icons8.com/fluent/2x/youtube-play.png">
+Tutorial Link will be added here once v2 video is uploaded
 
-https://www.youtube.com/watch?v=lqRRKQQ_D5g&t=19s
+## Contact Me
+<img width="30" src="https://img.icons8.com/fluent/2x/discord-logo.png"> 
 
-##  <img src="https://img.icons8.com/ultraviolet/2x/burn-cd.png" height="30" width = "30">Remix The Project<img src="https://img.icons8.com/ultraviolet/2x/burn-cd.png" height="30" width = "30">
-[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/Mercurydev986/Discordjs-MusicBot-Tutorial/)
+- Nithish#6593
 
-## <img src="https://img.icons8.com/ultraviolet/2x/user-group-man-woman.png" width="30" height="30">Made By<img src="https://img.icons8.com/ultraviolet/2x/user-group-man-woman.png" width="30" height="30">
+<img width="30" src="https://img.icons8.com/fluent/2x/instagram-new.png"> 
 
-Nithish#6593 - Owner | Developer
+- nithish_codez
 
-## <img src="https://img.icons8.com/nolan/2x/camera.png" height="30" width="30"> SCREENSHOTS<img src="https://img.icons8.com/nolan/2x/camera.png" height="30" width="30">
+## Showcase <img width="20px" src="https://img.icons8.com/android/2x/camera.png" >
+<p align="center"><img src="https://nithish.is-inside.me/wAhyjaXg.png"></p>
+<p align="center"><img src="https://nithish.is-inside.me/onKw13Xw.png"></p>
+<p align="center"><img src="https://nithish.is-inside.me/x8RjL5Q2.png"></p>
+<p align="center"><img src="https://nithish.is-inside.me/aDf7OpxY.png"></p>
+and many more...
 
-<img src="https://cdn.discordapp.com/attachments/764452688813228043/764452953767411712/unknown.png">
-
-<img src="https://cdn.discordapp.com/attachments/764452688813228043/764453346689155083/unknown.png">
-
-<img src="https://cdn.discordapp.com/attachments/764452688813228043/764453472791298049/unknown.png">
-
-## <img src="https://img.icons8.com/nolan/2x/gold-bars.png" height ="30" width="30">SPECIALITY<img src="https://img.icons8.com/nolan/2x/gold-bars.png" height ="30" width="30">
-
-This music bot is programmed in the way that it will scrape the youtube website directly, which means No more annoying youtube-api-key is needed!
-
-## CREDITS
-[@icrawl](https://github.com/iCrawl)
-Thanks to icrawl, queue system is partially adapted from icrawl's [Music Bot Repo](https://github.com/iCrawl/discord-music-bot)
+## Credits
+As always queue system is partially adapted from [@icrawl's](https://github.com/iCrawl) [MusicBotRepo](https://github.com/iCrawl/discord-music-bot)
