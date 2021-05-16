@@ -2,7 +2,7 @@ const ytdl = require("discord-ytdl-core");
 const youtubeScraper = require("yt-search");
 const yt = require("ytdl-core");
 const { MessageEmbed, Util } = require("discord.js");
-const forHumans = require("../utils/forhumans.js");
+const forHumans = require("./forhumans.js");
 
 exports.run = async (client, message, args) => {
   const channel = message.member.voice.channel;
