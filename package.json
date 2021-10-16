@@ -22,6 +22,7 @@
     "node-opus": "^0.3.3",
     "opusscript": "^0.0.7",
     "yt-search": "^2.2.4",
-    "ytdl-core": "^4.1.1"
+    "ytdl-core": "^4.1.1",
+    "ytpl": "^2.2.3"
   }
 }
